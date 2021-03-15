@@ -1,8 +1,8 @@
 FROM node:15-slim
 
 LABEL version="1.0.0"
-LABEL "repository"="http://github.com/jzweifel/gatsby-cli-github-action"
-LABEL "homepage"="http://github.com/jzweifel"
+LABEL "repository"="http://github.com/rameshelamathi/gatsby-cli-github-action"
+LABEL "homepage"="http://github.com/rameshelamathi"
 LABEL "maintainer"="Jacob Zweifel <jacob@jacobzweifel.com>"
 
 LABEL "com.github.actions.name"="Github Action for Gatsby CLI"
